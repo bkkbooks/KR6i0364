@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6i0364/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說盂蘭盆經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T16/T16n0685.xml
+    old_id: T16n0685
+hash: sha256:8e494345710d1a0fb6df45b4cc59b6698a71a2cfb5dfdbc30b4199028971d6ae
