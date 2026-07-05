@@ -34,9 +34,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6i0364_000.yaml, hash: 'sha256:8e494345710d1a0fb6df45b4cc59b6698a71a2cfb5dfdbc30b4199028971d6ae'}
-  - {seq: 1, filename: KR6i0364_001.yaml, hash: 'sha256:ebf52dd06eb204505718a3b8289453a7e78b1a2c924f0d1daa2ec5c34beb3632'}
+  - {seq: 1, filename: KR6i0364_001.yaml, hash: 'sha256:49fd220400c1f6f0c3d004877bf1f2fff2a91bc263628ea4d07022897da51a4d'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6i0364_001.markers.yaml, hash: 'sha256:ddf73f65501af3a6e9f56cfe5cf7a0a7c1c14687778b607de1c16e2660ad1800'}
+  - {seq: 0, role: markers, filename: assets/KR6i0364_000.markers.yaml, hash: 'sha256:d4ddc0e8b9afaf74efe7a31cf486ad0eb0cf47c5fa3dc4188fc01ad9be18fac1'}
+  - {seq: 1, role: markers, filename: assets/KR6i0364_001.markers.yaml, hash: 'sha256:67a85db1300f921558f038bbec918d169c2aabe57368c46b9f799b4874e7c59b'}
 table_of_contents:
 - ref:
     seq: 1
@@ -48,7 +49,4 @@ table_of_contents:
   label: 佛說盂蘭盆經
   type: juan
   level: 1
-hash: sha256:9e0e7b348db9b1dbae71f2f0234537fbdcf97fc6ebc976b6396ad0b4e73294be
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:2c019a51a11371106d7d93bb25a7849fa8899670b102bfd949397e019f24765a
