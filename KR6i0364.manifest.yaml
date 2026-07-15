@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6i0364/v1
 canonical_location: https://kanripo.org/bkk/KR6i0364/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 佛說盂蘭盆經
   identifiers:
@@ -34,10 +34,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6i0364_000.yaml, hash: 'sha256:8e494345710d1a0fb6df45b4cc59b6698a71a2cfb5dfdbc30b4199028971d6ae'}
-  - {seq: 1, filename: KR6i0364_001.yaml, hash: 'sha256:49fd220400c1f6f0c3d004877bf1f2fff2a91bc263628ea4d07022897da51a4d'}
+  - {seq: 1, filename: KR6i0364_001.yaml, hash: 'sha256:4841fddf0e33247c639f923e6cc0f5f81c880dd14b4f2490689095e33dc144a2'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6i0364_000.markers.yaml, hash: 'sha256:d4ddc0e8b9afaf74efe7a31cf486ad0eb0cf47c5fa3dc4188fc01ad9be18fac1'}
-  - {seq: 1, role: markers, filename: assets/KR6i0364_001.markers.yaml, hash: 'sha256:67a85db1300f921558f038bbec918d169c2aabe57368c46b9f799b4874e7c59b'}
+  - {seq: 1, role: markers, filename: assets/KR6i0364_001.markers.yaml, hash: 'sha256:b2cd5e02acd5921c437b6a33ff3f42549b8c939df7251102f28384cea451daf5'}
 table_of_contents:
 - ref:
     seq: 1
@@ -49,4 +49,7 @@ table_of_contents:
   label: 佛說盂蘭盆經
   type: juan
   level: 1
-hash: sha256:2c019a51a11371106d7d93bb25a7849fa8899670b102bfd949397e019f24765a
+hash: sha256:d3da58b10a48de110c6fa11112924dc5ac9b807fa1ae830dd49012ca463c92fc
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
